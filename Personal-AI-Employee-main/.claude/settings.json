@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /home/muhammadwaheed/workspace/Hackathone\\ 0/Personal-AI-Employee/.claude/hooks/stop.py"
+          }
+        ]
+      }
+    ]
+  },
+  "$version": 3
+}
